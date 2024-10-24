@@ -4,4 +4,6 @@ Created test cases with test scenrios and procedures for Nop commerce website  a
 
 TEST CASES  and Bug Report :-   https://docs.google.com/spreadsheets/d/1rzOyY13t81zSGjnQ8uwM8X9vv0OW4ALTYvG3-CGaKVg/edit?usp=sharing
 
+SRS DOCUMENT FOR NOP COMMERCE WEBSITE :- https://docs.google.com/document/d/1W9oc0mVxSvJZj9j74eUNecUB7NpdxTcb9EUI0i2Uwrc/edit?usp=sharing
+
 
